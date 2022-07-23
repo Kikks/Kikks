@@ -52,8 +52,7 @@ I'm a Tech enthusiast. I enjoy building scalable products with amazing user expe
 
 <div>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="React Native" src="https://img.shields.io/
-badge/react_native-fff.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Next" src="https://img.shields.io/badge/next-fff.svg?style=for-the-badge&logo=next.js&logoColor=black"/>
 <img alt="Vue" src="https://img.shields.io/badge/vue-32475B.svg?style=for-the-badge&logo=vue.js&logoColor=3FB280"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
